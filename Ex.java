@@ -16,13 +16,13 @@ public class Ex {
 
 	public static void main(String[] args) {
 
-		
+		// 주석 테스트		
 		Scanner sc = new Scanner(System.in);
 		Scanner op = new Scanner(System.in);
 		String operater = "";
 		double n1;
 		double sum = 0;
-
+		
 		
 		// 첫 연산
 		
